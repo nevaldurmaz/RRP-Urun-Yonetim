@@ -20,7 +20,7 @@ Modal & Form Handling
 # 🔥 Nasıl Çalıştırılır?
 Hadi bakalım, projeyi yerel ortamınızda çalıştırmak için şu basit adımları takip edin:
 Proje Kodunu kopyala
-git clone https://github.com/kullanici-adiniz/proje-adi.git
+git clone https://github.com/nevaldurmaz/RRP-Urun-Yonetim.git
 Bağımlılıkları Yükleyin:
 cd proje-adi
 npm install
